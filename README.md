@@ -1,3 +1,5 @@
+[![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
+
 # Simple PFS-P2P-LAN-Chat
 
 - Encrypted Messages with PFS (using TLS)
